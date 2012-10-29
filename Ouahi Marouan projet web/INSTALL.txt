@@ -1,0 +1,8 @@
+INSTALL
+
+
+
+Pour installer l'application , installer wamp pour windows et copier le contenu de
+ l'archive ("site") dans le répertoire /www de wamp 
+- demmarrer wamp
+- lancer l'url : http://www.localhost/site
